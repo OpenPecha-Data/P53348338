@@ -1,0 +1,28 @@
+id: fbb8a85ad6a04773ba028f31e7e9181f
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  90cd73c855924da883d61e849cbde143:
+    span:
+      start: 1582
+      end: 3142
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EPA6BA0A808B115EA4
+  3b985fdc2bee45c8a0a247d8598eb6ea:
+    span:
+      start: 3144
+      end: 3827
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EP11CD875608B86110
+  d64a1187c0b840e5851bd183b855c9c8:
+    span:
+      start: 0
+      end: 1580
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EPC9ED1D97CFE43EB5
